@@ -1,27 +1,27 @@
 ﻿<div align="center" id="top"> 
-  <img src="./splash.png" alt="ToDo List Project" />
+  <img src="./splash.png" alt="ATM-MIT Project" />
 
   &#xa0;
 
   <!-- <a href="https://realtimebustracker.netlify.app">Splash</a> -->
 </div>
 
-<h1 align="center">ToDo List - React Project</h1>
+<h1 align="center">ATM-MIT - Project</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/bayardorivas/ToDoList?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/bayardorivas/ATM-MIT?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/bayardorivas/ToDoList?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/bayardorivas/ATM-MIT?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bayardorivas/ToDoList?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bayardorivas/ATM-MIT?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/bayardorivas/ToDoList?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/bayardorivas/ATM-MIT?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/bayardorivas/ToDoList?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/bayardorivas/ATM-MIT?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/bayardorivas/ToDoList?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/bayardorivas/ATM-MIT?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/bayardorivas/ToDoList?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/bayardorivas/ATM-MIT?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -47,12 +47,13 @@
 
 ## :dart: About ##
 
-This project was created with React [React](https://en.reactjs.org/). You can add you ToDos hitting the 
-input field, and clicking over the each element it is removed from the ToDo list.
+This project was created with React [React](https://en.reactjs.org/). It simulates a very basic ATM Machine. As user you can make deposits and withdraw, and your balance is updated automatically. You can see how useState is used.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Add ToDo activities and remove them easy.
+:heavy_check_mark: Make deposit
+:heavy_check_mark: Make withdraw
+:heavy_check_mark: Check your balance
 
 ## :rocket: Technologies ##
 
@@ -65,25 +66,25 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting : you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed to clone de the project.
+Before starting : you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed to clone de the project, and run a local web server (you can user Live Server of Visual Studio Code).
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/bayardorivas/ToDoList
+$ git clone https://github.com/bayardorivas/ATM-MIT
 
 # Access
-$ cd ToDoList
+$ cd ATM-MIT
 
 # Just Open the index.html file on your browser
-
-```
 
 ## :recycle: Improvements ##
 
 It would be nice the next improvements:
-- [ ] Connect the app to a database and keep all ToDos with status "Complete" and "Incomplete" 
+- [ ] User authentication
+- [ ] Multiuser to make transfers between users
+- [ ] Notification alerts when balance is lower than an specific amount
 
 ## :memo: License ##
 
