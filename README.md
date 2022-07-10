@@ -78,13 +78,13 @@ $ git clone https://github.com/bayardorivas/ATM-MIT
 $ cd ATM-MIT
 
 # Just Open the index.html file on your browser
-
+```
 ## :recycle: Improvements ##
 
 It would be nice the next improvements:
-- [ ] User authentication
-- [ ] Multiuser to make transfers between users
-- [ ] Notification alerts when balance is lower than an specific amount
+- [ ] User authentication.
+- [ ] Multiuser to make transfers between users.
+- [ ] Notification alerts when balance is lower than an specific amount.
 
 ## :memo: License ##
 
