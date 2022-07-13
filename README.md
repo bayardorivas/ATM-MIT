@@ -1,5 +1,5 @@
 ﻿<div align="center" id="top"> 
-  <img src="./splash.png" alt="ATM-MIT Project" />
+  <img src="./images/splash.png" alt="ATM-MIT Project" />
 
   &#xa0;
 
